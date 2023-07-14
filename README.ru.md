@@ -7,7 +7,7 @@
 
 Скриншот:
 
-![Screenshot](screenshots.PNG)
+![Screenshot](screenshot.PNG)
 
 
 # Оглавление
